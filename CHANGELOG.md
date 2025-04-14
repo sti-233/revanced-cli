@@ -1,3 +1,10 @@
+## [5.0.1](https://github.com/ReVanced/revanced-cli/compare/v5.0.0...v5.0.1) (2025-04-14)
+
+
+### Bug Fixes
+
+* Make mounting work again by bumping dependencies ([#359](https://github.com/ReVanced/revanced-cli/issues/359)) ([68a4872](https://github.com/ReVanced/revanced-cli/commit/68a48724ebf01a0c8f8adc0fec63037bff672dc9))
+
 ## [5.0.1-dev.1](https://github.com/ReVanced/revanced-cli/compare/v5.0.0...v5.0.1-dev.1) (2025-02-26)
 
 
