@@ -1,3 +1,10 @@
+## [5.0.2-dev.1](https://github.com/ReVanced/revanced-cli/compare/v5.0.1...v5.0.2-dev.1) (2025-04-20)
+
+
+### Bug Fixes
+
+* Group `mount` and `install` options into an argument group  ([#364](https://github.com/ReVanced/revanced-cli/issues/364)) ([0c53a2d](https://github.com/ReVanced/revanced-cli/commit/0c53a2d1d75d3d934d134594751fe6cd0b000d1a))
+
 ## [5.0.1](https://github.com/ReVanced/revanced-cli/compare/v5.0.0...v5.0.1) (2025-04-14)
 
 
