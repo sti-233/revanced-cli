@@ -1,3 +1,16 @@
+# [5.1.0](https://github.com/sti-233/revanced-cli/compare/v5.0.1...v5.1.0) (2025-05-05)
+
+
+### Bug Fixes
+
+* build ([785d899](https://github.com/sti-233/revanced-cli/commit/785d899d88bed6e79d926a50e86022661d29411a))
+* build ([f21bac7](https://github.com/sti-233/revanced-cli/commit/f21bac738f8867e25da6b36d9def87efe8be8829))
+
+
+### Features
+
+* minimize apk size & customize output apk signing levels ([abb39bf](https://github.com/sti-233/revanced-cli/commit/abb39bf2f48a8d0172380d58d4b0ffbe2030af6e))
+
 ## [5.0.1](https://github.com/ReVanced/revanced-cli/compare/v5.0.0...v5.0.1) (2025-04-14)
 
 
