@@ -300,7 +300,6 @@ internal object PatchCommand : Runnable {
                 patcherTemporaryFilesPath,
                 aaptBinaryPath?.path,
                 patcherTemporaryFilesPath.absolutePath,
-                true,
                 shortenResourcePaths = true,
             ),
         ).use { patcher ->
